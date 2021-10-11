@@ -9,7 +9,7 @@ Required modules include
     requests
     datetime
 
-Python class final project for the semester.
+Python class final project.
 
 Created as part of a demonstration of the learned material, the intent of this programming project is to explore the hypothesis that geomagnetic-storm induced disturbences to the Earth's magnetosphere noteably influence the temperature over a certain period.
 
